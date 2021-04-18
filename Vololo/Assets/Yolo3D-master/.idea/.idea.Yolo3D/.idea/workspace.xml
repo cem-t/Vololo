@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="160ea859-9580-4aa1-8943-6c4ee5906e41" name="Default Changelist" comment="del">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Yolo3D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Yolo3D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MaskScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MaskScript.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/BulletControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/CameraControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/EnemyControl.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/EarthRotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerContol.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyScripts/CameraControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/YENİ.cs" />
+        <option value="$PROJECT_DIR$/Assets/RangeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyScripts/BulletControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyScripts/GameUIscript.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyScripts/EnemyControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyScripts/PlayerContol.cs" />
+        <option value="$PROJECT_DIR$/Assets/MaskScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rGWhS1DveDvJ8OA57RGPLjBRlB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3501355" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.300271" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="160ea859-9580-4aa1-8943-6c4ee5906e41" name="Default Changelist" comment="" />
+      <created>1618603036023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618603036023</updated>
+      <workItem from="1618603044555" duration="206000" />
+      <workItem from="1618603332256" duration="3352000" />
+      <workItem from="1618612743090" duration="3370000" />
+      <workItem from="1618647705895" duration="4578000" />
+      <workItem from="1618652497488" duration="110000" />
+      <workItem from="1618652685694" duration="158000" />
+      <workItem from="1618652882168" duration="6098000" />
+      <workItem from="1618670644775" duration="6821000" />
+      <workItem from="1618681847689" duration="620000" />
+      <workItem from="1618735920365" duration="248000" />
+      <workItem from="1618736258300" duration="135000" />
+      <workItem from="1618736582264" duration="2031000" />
+      <workItem from="1618745059585" duration="5161000" />
+    </task>
+    <task id="LOCAL-00001" summary="sa">
+      <created>1618681955939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618681955939</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ateş etme en güncelinde">
+      <created>1618684139365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618684139365</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Trigger problemi çözüldü.">
+      <created>1618686106997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618686106997</updated>
+    </task>
+    <task id="LOCAL-00004" summary="-Düşman öldüğünde obje pasif hale geliyor&#10;- bullet düşmana değdiği zaman yok oluyor">
+      <created>1618687726083</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618687726083</updated>
+    </task>
+    <task id="LOCAL-00005" summary="-HealthBar geliştirmesi yapıldı.">
+      <created>1618690859562</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618690859562</updated>
+    </task>
+    <task id="LOCAL-00006" summary="-HealthBar geliştirmesi yapıldı.">
+      <created>1618691482504</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618691482504</updated>
+    </task>
+    <task id="LOCAL-00007" summary="-HealthBar geliştirmesi yapıldı.">
+      <created>1618691573462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618691573462</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Version 2020.3.3f1">
+      <created>1618736004595</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618736004595</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Version 2020.3.3f1">
+      <created>1618736353783</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618736353783</updated>
+    </task>
+    <task id="LOCAL-00010" summary="scene">
+      <created>1618736709623</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618736709623</updated>
+    </task>
+    <task id="LOCAL-00011" summary="scene">
+      <created>1618736933614</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618736933614</updated>
+    </task>
+    <task id="LOCAL-00012" summary="scene">
+      <created>1618737490729</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1618737490729</updated>
+    </task>
+    <task id="LOCAL-00013" summary="del">
+      <created>1618749083254</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1618749083254</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="sa" />
+    <MESSAGE value="Ateş etme en güncelinde" />
+    <MESSAGE value="Trigger problemi çözüldü." />
+    <MESSAGE value="-Düşman öldüğünde obje pasif hale geliyor&#10;- bullet düşmana değdiği zaman yok oluyor" />
+    <MESSAGE value="-HealthBar geliştirmesi yapıldı." />
+    <MESSAGE value="Version 2020.3.3f1" />
+    <MESSAGE value="scene" />
+    <MESSAGE value="del" />
+    <option name="LAST_COMMIT_MESSAGE" value="del" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="369" key="GridCell.Tab.0.bottom" timestamp="1618701849311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849311" />
+    <state width="1876" height="369" key="GridCell.Tab.0.center" timestamp="1618701849310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849310" />
+    <state width="1876" height="369" key="GridCell.Tab.0.left" timestamp="1618701849310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849310" />
+    <state width="1876" height="369" key="GridCell.Tab.0.right" timestamp="1618701849310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849310" />
+    <state width="1876" height="369" key="GridCell.Tab.1.bottom" timestamp="1618701849311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849311" />
+    <state width="1876" height="369" key="GridCell.Tab.1.center" timestamp="1618701849311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849311" />
+    <state width="1876" height="369" key="GridCell.Tab.1.left" timestamp="1618701849311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849311" />
+    <state width="1876" height="369" key="GridCell.Tab.1.right" timestamp="1618701849311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849311" />
+    <state width="1876" height="369" key="GridCell.Tab.2.bottom" timestamp="1618701849312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849312" />
+    <state width="1876" height="369" key="GridCell.Tab.2.center" timestamp="1618701849311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849311" />
+    <state width="1876" height="369" key="GridCell.Tab.2.left" timestamp="1618701849311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849311" />
+    <state width="1876" height="369" key="GridCell.Tab.2.right" timestamp="1618701849311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849311" />
+    <state width="1876" height="369" key="GridCell.Tab.3.bottom" timestamp="1618701849312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.3.bottom/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849312" />
+    <state width="1876" height="369" key="GridCell.Tab.3.center" timestamp="1618701849312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.3.center/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849312" />
+    <state width="1876" height="369" key="GridCell.Tab.3.left" timestamp="1618701849312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.3.left/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849312" />
+    <state width="1876" height="369" key="GridCell.Tab.3.right" timestamp="1618701849312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.3.right/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618701849312" />
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2" timestamp="1618749104577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618749104577" />
+    <state x="64" y="46" width="1874" height="1015" maximized="true" key="dock-window-1" timestamp="1618653267338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="64" y="46" width="1874" height="1015" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.0.1858.1080@0.0.1920.1040" timestamp="1618653267338" />
+  </component>
+</project>
